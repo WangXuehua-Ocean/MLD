@@ -1,6 +1,5 @@
 function [QI] =QI_cal(depth,temp,mld)
 % calculating the Qulinity Index of the mix layer depth of calculation
-% author:Li Hong,2013.9.21
 % Reference:
 % Lorbacher,K.,Dommenget,D.,et al.,2006.Ocean mixed layer depth:
 % A subsurface proxy of ocean-atmosphere variability.J.Geophys.Res.,
