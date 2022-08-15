@@ -4,10 +4,8 @@ function [mld_GMM_t mld_GMM_dens QI_GMM_t QI_GMM_dens] = GMM_mld(temp,dens,depth
 % Reference:
 % Peter C.Chu,Q. Q. Wang, and R. H. Bourke, 1999: A geometric model for
 %the Beaufort/Chukchi Sea thermohaline structure. J. Atmos.
-% Oceanic Technol.,16:613¨C632.
+% Oceanic Technol.,16:613Â¨C632.
 % clear all;
-% Li Hong,revised 2016.3.30
-
 % first initial the data
 mld_GMM_t=10.;
 mld_GMM_dens=10.;
